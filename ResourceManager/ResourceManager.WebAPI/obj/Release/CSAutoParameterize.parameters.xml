@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DBConnectionString-Web.config Connection String" description="DBConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=k9u4cf4d2g.database.windows.net,1433;Initial Catalog=ResourceManager;User ID=nandan;Password=password-123;Trusted_Connection=False;Encrypt=True;Connection Timeout=100;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Development\\startup\\ResourceManager\\ResourceManager\\ResourceManager\.WebAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DBConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

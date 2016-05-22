@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ResourceManager.Database", "ResourceManager.Database\ResourceManager.Database.sqlproj", "{AE81B492-3948-4609-8A69-43E4B505C0DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceManager.WebAPI", "ResourceManager.WebAPI\ResourceManager.WebAPI.csproj", "{B56D1C39-9E2C-4BED-B780-1BBB8765A6C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE81B492-3948-4609-8A69-43E4B505C0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE81B492-3948-4609-8A69-43E4B505C0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE81B492-3948-4609-8A69-43E4B505C0DF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AE81B492-3948-4609-8A69-43E4B505C0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE81B492-3948-4609-8A69-43E4B505C0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE81B492-3948-4609-8A69-43E4B505C0DF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B56D1C39-9E2C-4BED-B780-1BBB8765A6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56D1C39-9E2C-4BED-B780-1BBB8765A6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56D1C39-9E2C-4BED-B780-1BBB8765A6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56D1C39-9E2C-4BED-B780-1BBB8765A6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\Development\startup\ResourceManager\ResourceManager\ResourceManager.Database\bin\Debug\ResourceManager.Database.dacpac
+D:\Development\startup\ResourceManager\ResourceManager\ResourceManager.Database\bin\Debug\ResourceManager.Database.dll
+D:\Development\startup\ResourceManager\ResourceManager\ResourceManager.Database\bin\Debug\ResourceManager.Database.pdb
+D:\Development\startup\ResourceManager\ResourceManager\ResourceManager.Database\obj\Debug\ResourceManager.Database.dll
+D:\Development\startup\ResourceManager\ResourceManager\ResourceManager.Database\obj\Debug\ResourceManager.Database.pdb
